@@ -1,0 +1,5856 @@
+{
+  "records": [
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "彭也博",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 1,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "1",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 1
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "冯晨旭",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 13,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "13",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 1
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "王子骏",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 31,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "31",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 1
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "姜天浩",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 40,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "40",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 2
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "宋旭",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 78,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "78",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 3
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "杨邓弘",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 91,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "91",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 3
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "彭沐池",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 103,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "103",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 3
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "陈宇田",
+      "marker": "",
+      "school": "深圳高级中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 118,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "118",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 4
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "彭浦让",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 129,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "129",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 4
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "杨博凯",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 145,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "145",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 5
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "范佳轩",
+      "marker": "",
+      "school": "深圳第二外国语学校",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 150,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "150",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 5
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "胡锐韬",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 151,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "151",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 5
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "丘宇澄",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 153,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "153",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 5
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "涂道鸿",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 164,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "164",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 5
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "蔡子熙",
+      "marker": "",
+      "school": "深圳外国语学校",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 188,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "188",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 6
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "周梓欣",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 204,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "204",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 6
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "李亦洲",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 213,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "213",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 6
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "孟子悦",
+      "marker": "",
+      "school": "深圳红岭中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 221,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "221",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 7
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "张纯熹",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 225,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "225",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 7
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "蔡振楠",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 238,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "238",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 7
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "苑闻",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 276,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "276",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 8
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "吴科霖",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 282,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "282",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 8
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "吴炳辰",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "铜牌",
+      "awards": [
+        "铜牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 351,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "351",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 11
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "何思源",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "铜牌",
+      "awards": [
+        "铜牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 389,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "389",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 12
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2020,
+      "competition": "CMO",
+      "name": "许培丽",
+      "marker": "",
+      "school": "广东实验中学",
+      "grade": "高二",
+      "award": "铜牌",
+      "awards": [
+        "铜牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 410,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "410",
+      "refs": [
+        {
+          "source": "CMO-2020",
+          "page": 12
+        }
+      ],
+      "status": "公示",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "冯晨旭",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 15,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "15",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "蔡振楠",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 45,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "45",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "赵晋琛",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 51,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "51",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "周梓欣",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 52,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "52",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "江南",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 55,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "55",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "黄天域",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 56,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "56",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "蒋钰清",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 90,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "90",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "苑闻",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 91,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "91",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "章锐新",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 92,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "92",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "安聪堃",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 93,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "93",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "何彦瑾",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 94,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "94",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "张纯熹",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 113,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "113",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "裴雪岑",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 186,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "3",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 5
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "曹知屹",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 187,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "4",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 5
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "李静远",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 205,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "22",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 6
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "杨阜霖",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 206,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "23",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 6
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "王梓桐",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 226,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "43",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 6
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "谢卓燊",
+      "marker": "",
+      "school": "广州执信中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 227,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "44",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 6
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "陈柏安",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 228,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "45",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 6
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "姜志城",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 229,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "46",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 6
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "王子骏",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 278,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "95",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 7
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "胡锐韬",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 304,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "121",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 8
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "梁昕玥",
+      "marker": "",
+      "school": "广州第六中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 305,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "122",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 8
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "周子姝",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 306,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "123",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 8
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "薛圣哲",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 307,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "124",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 8
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "操佳城",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 308,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "125",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 8
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "刘季洲",
+      "marker": "",
+      "school": "广州大学附属中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 342,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "159",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 9
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "吴羽迪",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 360,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "177",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 9
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "艾心玥",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 398,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "215",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 10
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "马辰阳",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "铜牌",
+      "awards": [
+        "铜牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 474,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "62",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 12
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2021,
+      "competition": "CMO",
+      "name": "李恩涵",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "铜牌",
+      "awards": [
+        "铜牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 495,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "83",
+      "refs": [
+        {
+          "source": "CMO-2021",
+          "page": 13
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "姜志城",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 19,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "19",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "薛圣哲",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 20,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "20",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "杨阜霖",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 22,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "22",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "汪千桐",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 33,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "33",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "戴子一",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 39,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "39",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "刘季洲",
+      "marker": "",
+      "school": "广州大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 64,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "64",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "凌兆隆",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 67,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "67",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "王梓桐",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 68,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "68",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "王濠泉",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 69,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "69",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "李静远",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 86,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "86",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "王诗乐",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 102,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "102",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "刘俊希",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 142,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "142",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "岳明洋",
+      "marker": "",
+      "school": "广东实验中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 149,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "149",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "王皓东",
+      "marker": "",
+      "school": "广州大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 151,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "151",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "许创宇",
+      "marker": "",
+      "school": "广东实验中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 158,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "158",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "周子衡",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 175,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "175",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 4
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "陈海洋",
+      "marker": "",
+      "school": "中山市中山纪念中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 189,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "189",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 4
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "詹炜舜",
+      "marker": "",
+      "school": "广东实验中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 197,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "197",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 4
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "朱子凡",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 206,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "206",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 4
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "谭欣彤",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 246,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "246",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 5
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "黄天域",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 257,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "257",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 5
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "邓博文",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 282,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "282",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 6
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "阮瑜皓",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 285,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "285",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 6
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "魏弘毅",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 300,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "300",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 6
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "马辰阳",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 301,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "301",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 6
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "陈柏安",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 316,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "316",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 6
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "樊亦鸣",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 328,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "328",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 7
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "吴约瀚",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 351,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "351",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 7
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "杨景翔",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 358,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "358",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 7
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "谢谦",
+      "marker": "",
+      "school": "佛山市南海区石门中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 376,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "376",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 8
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "张嘉铭",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 386,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "386",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 8
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "郭振弘",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 403,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "403",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 8
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "刘天祥",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 422,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "422",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 8
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2022,
+      "competition": "CMO",
+      "name": "李昕运",
+      "marker": "",
+      "school": "广州市第二中学",
+      "grade": "高三",
+      "award": "铜牌",
+      "awards": [
+        "铜牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 554,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "554",
+      "refs": [
+        {
+          "source": "CMO-2022",
+          "page": 11
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "刘凯承",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 2,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "2",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "姜志城",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 6,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "6",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "罗皓仁",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 11,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "11",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "赵朔",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 51,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "51",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "陈睿康",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 53,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "53",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "刘俊希",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 71,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "71",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "王颢锟",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 75,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "75",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "吴家睿",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 92,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "92",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "谭欣彤",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 98,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "98",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "吴宇鹏",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 101,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "101",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "宋彦廷",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 110,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "110",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "杨奕轩",
+      "marker": "",
+      "school": "广东实验中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 118,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "118",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "宋隆煜",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 125,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "125",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "罗程煜",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 127,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "127",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "岳明洋",
+      "marker": "",
+      "school": "广东省实验中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 134,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "134",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 4
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "张嘉铭",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 150,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "150",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 4
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "章锐新",
+      "marker": "",
+      "school": "广东省深圳中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 154,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "154",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 4
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "夏乐山",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 157,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "157",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 4
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "杜柏麟",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 162,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "162",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 4
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "田家熠",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 166,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "166",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 4
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "朱既同",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 175,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "175",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 4
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "熊梓娱",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 281,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "281",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 7
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "汪千桐",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 283,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "283",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 7
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "魏子舒",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 316,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "316",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 8
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "徐浩岚",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 337,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "337",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 8
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "李越衡",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 344,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "344",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 8
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "许创宇",
+      "marker": "",
+      "school": "广东实验中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 372,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "372",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 9
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "林泽锋",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 373,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "373",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 9
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "罗玄宇",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 379,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "379",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 9
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "焦彦博",
+      "marker": "",
+      "school": "深圳市高级中学中心校区",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 408,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "408",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 10
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "胡莫",
+      "marker": "",
+      "school": "深圳市耀华实验学校",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 425,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "425",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 10
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "韩梓唯",
+      "marker": "",
+      "school": "佛山市南海区石门中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 479,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "479",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 11
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "孙逸航",
+      "marker": "",
+      "school": "深圳市高级中学中心校区",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 501,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "501",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 12
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "CMO",
+      "name": "林之焱",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "铜牌",
+      "awards": [
+        "铜牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 545,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "545",
+      "refs": [
+        {
+          "source": "CMO-2023",
+          "page": 13
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "喻鑫垣",
+      "marker": "",
+      "school": "广东实验中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 11,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24011",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "刘晨奕",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 29,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24029",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "罗玄宇",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 35,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24035",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "王俊霖",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 39,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24039",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "张嘉铭",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 55,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24055",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "王颢锟",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 60,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24060",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "周皓天",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 69,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24069",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "赵朔",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 97,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24097",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 2
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "钟沐佳",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 118,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24118",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "冯政为",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 119,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24119",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "樊庆",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 126,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24126",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "胡烜硕",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 130,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24130",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "朱庆泽",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 132,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24132",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "刘凯承",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 154,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24154",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 3
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "夏乐山",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 159,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24159",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 4
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "何金熹",
+      "marker": "",
+      "school": "广州大学附属中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 162,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24162",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 4
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "焦彦博",
+      "marker": "",
+      "school": "深圳高级中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 164,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24164",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 4
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "兰玉琪",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 180,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24180",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 4
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "宋彦廷",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 182,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24182",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 4
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "阮瑜皓",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 199,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24199",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 4
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "⻢琮皓",
+      "marker": "",
+      "school": "深圳高级中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 223,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24223",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 5
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "胡睿恩",
+      "marker": "",
+      "school": "广东实验中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 226,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24226",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 5
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "杨景翔",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 241,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24241",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 5
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "李越衡",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 259,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24259",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 5
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "陈宇梁",
+      "marker": "",
+      "school": "广东实验中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 262,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24262",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 6
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "唐乐华",
+      "marker": "",
+      "school": "深圳中学数理高中",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 269,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24269",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 6
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "杨宇轩",
+      "marker": "",
+      "school": "广东实验中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 271,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24271",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 6
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "戴天悦",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 275,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24275",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 6
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "潘晨鸣",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 283,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24283",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 6
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "陈睿康",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 336,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24336",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 7
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "熊梓娱",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 341,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24341",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 7
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "张行一",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 359,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24359",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 7
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "彭智涵",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 383,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24383",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 8
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "王孜研",
+      "marker": "",
+      "school": "广州大学附属中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 409,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24409",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 8
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "杨书忱",
+      "marker": "",
+      "school": "珠海市第一中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 419,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24419",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 9
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "温子洋",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 492,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24492",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 10
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "胡家旗",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 503,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24503",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 10
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2024,
+      "competition": "CMO",
+      "name": "杜沛桐",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "铜牌",
+      "awards": [
+        "铜牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 633,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M24633",
+      "refs": [
+        {
+          "source": "CMO-2024",
+          "page": 13
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "刘晨奕",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 4,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25004",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "周皓天",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 22,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25022",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "马琮皓",
+      "marker": "",
+      "school": "深圳市高级中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 50,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25050",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "钟沐佳",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 70,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25070",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "戴天悦",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 72,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25072",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "张柏轩",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 117,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25117",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "罗玄宇",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 120,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25120",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "胡烜硕",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 123,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25123",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "胡清源",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 135,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25135",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "谢镇廷",
+      "marker": "",
+      "school": "广东实验中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 140,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25140",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "吴可晗",
+      "marker": "",
+      "school": "广州大学附属中学南沙实验学校",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 155,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25155",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "詹文燊",
+      "marker": "",
+      "school": "广州大学附属中学",
+      "grade": "高三",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 176,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25176",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "李承运",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 220,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25220",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "梁家瑞",
+      "marker": "",
+      "school": "深圳市高级中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 233,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25233",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "余方程",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 234,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25234",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "李楠",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 236,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25236",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "李泽熙",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 246,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25246",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "刘浩宸",
+      "marker": "",
+      "school": "广东实验中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 250,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25250",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "唐睿泽",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 255,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25255",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "庾恒嘉",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 280,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25280",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "张月哲",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 283,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25283",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "王锦华",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 297,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25297",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "王羿骁",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 312,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25312",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "李昱材",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 315,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25315",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "周城宇",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 325,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25325",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "喻鑫垣",
+      "marker": "",
+      "school": "广东实验中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 343,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25343",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "耿铭源",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 369,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25369",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "许嘉睿",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 370,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25370",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "徐敏阅",
+      "marker": "",
+      "school": "广东实验中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 372,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25372",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "廖子曰",
+      "marker": "",
+      "school": "深圳市耀华实验学校",
+      "grade": "高二",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 382,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25382",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "刘谦牧",
+      "marker": "",
+      "school": "深圳外国语学校",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 388,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25388",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "邓晟涵",
+      "marker": "",
+      "school": "深圳市高级中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 417,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25417",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "肖胜烽",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 418,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25418",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "彭智涵",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 421,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25421",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "郑平凯",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 465,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25465",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "卢筠皓",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高一",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 481,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25481",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "唐子渊",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "高三",
+      "award": "银牌",
+      "awards": [
+        "银牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 503,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25503",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2025,
+      "competition": "CMO",
+      "name": "张梓洋",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高三",
+      "award": "铜牌",
+      "awards": [
+        "铜牌"
+      ],
+      "team": false,
+      "score": null,
+      "rank": null,
+      "list_order": 577,
+      "rank_label": "全国获奖名单顺位",
+      "rank_note": "中国数学会获奖名单的排列位置；未公布分数及并列信息，不当作官方竞赛名次",
+      "code": "M25577",
+      "refs": [
+        {
+          "source": "CMO-2025",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "review": "中国数学会原生PDF/Excel表格提取；未公布分数与并列名次"
+    },
+    {
+      "year": 2023,
+      "competition": "IMO",
+      "name": "姜志城",
+      "english_name": "Zhicheng Jiang",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": 35,
+      "problem_scores": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        0
+      ],
+      "rank": 28,
+      "list_order": null,
+      "rank_label": "世界名次（含并列）",
+      "rank_note": "直接使用IMO官网Rank字段，保留官方并列名次",
+      "code": "",
+      "refs": [
+        {
+          "source": "IMO-CHN",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "identity_source": "https://www.shenzhong.net/textnewslist_24/16213.html",
+      "review": "英文成绩来自IMO官网；中文姓名与学校由学校官网校对"
+    },
+    {
+      "year": 2021,
+      "competition": "IMO",
+      "name": "彭也博",
+      "english_name": "Yebo Peng",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": 36,
+      "problem_scores": [
+        7,
+        1,
+        7,
+        7,
+        7,
+        7
+      ],
+      "rank": 3,
+      "list_order": null,
+      "rank_label": "世界名次（含并列）",
+      "rank_note": "直接使用IMO官网Rank字段，保留官方并列名次",
+      "code": "",
+      "refs": [
+        {
+          "source": "IMO-CHN",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "identity_source": "https://www.shenzhong.net/textnewslist_87/15602.html",
+      "review": "英文成绩来自IMO官网；中文姓名与学校由学校官网校对"
+    },
+    {
+      "year": 2021,
+      "competition": "IMO",
+      "name": "冯晨旭",
+      "english_name": "Chenxu Feng",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": 31,
+      "problem_scores": [
+        7,
+        2,
+        1,
+        7,
+        7,
+        7
+      ],
+      "rank": 17,
+      "list_order": null,
+      "rank_label": "世界名次（含并列）",
+      "rank_note": "直接使用IMO官网Rank字段，保留官方并列名次",
+      "code": "",
+      "refs": [
+        {
+          "source": "IMO-CHN",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "identity_source": "https://www.shenzhong.net/textnewslist_87/15602.html",
+      "review": "英文成绩来自IMO官网；中文姓名与学校由学校官网校对"
+    },
+    {
+      "year": 2020,
+      "competition": "IMO",
+      "name": "饶睿",
+      "english_name": "Rui Rao",
+      "marker": "",
+      "school": "华南师范大学附属中学",
+      "grade": "",
+      "award": "金牌",
+      "awards": [
+        "金牌"
+      ],
+      "team": false,
+      "score": 31,
+      "problem_scores": [
+        7,
+        7,
+        3,
+        7,
+        7,
+        0
+      ],
+      "rank": 43,
+      "list_order": null,
+      "rank_label": "世界名次（含并列）",
+      "rank_note": "直接使用IMO官网Rank字段，保留官方并列名次",
+      "code": "",
+      "refs": [
+        {
+          "source": "IMO-CHN",
+          "page": 1
+        }
+      ],
+      "status": "正式",
+      "confidence": 1,
+      "identity_source": "https://www.hsfz.net.cn/list_68/4031.html",
+      "review": "英文成绩来自IMO官网；中文姓名与学校由学校官网校对"
+    }
+  ],
+  "sources": [
+    {
+      "id": "CMO-2021",
+      "year": 2021,
+      "kind": "CMO",
+      "title": "2021年全国中学生数学奥林匹克竞赛（决赛）获奖名单",
+      "url": "https://www.cms.org.cn/upload/file/2112/27328.pdf",
+      "article": "https://www.cms.org.cn/upload/file/2112/27328.pdf",
+      "local": "原始资料/CMO/2021-CMO获奖名单.pdf",
+      "pages": 14,
+      "status": "正式",
+      "sha256": "92904964bfa623b0ee971382f23b3f8cda9815982b4c67346afa94e2a02192cf",
+      "retrieved": "2026-11-02",
+      "bytes": 720819
+    },
+    {
+      "id": "CMO-2020",
+      "year": 2020,
+      "kind": "CMO",
+      "title": "2020年全国中学生数学奥林匹克竞赛（决赛）获奖名单",
+      "url": "https://www.cms.org.cn/upload/editor/file/20201129/29103613863.pdf",
+      "article": "https://www.cms.org.cn/upload/editor/file/20201129/29103613863.pdf",
+      "local": "原始资料/CMO/2020-CMO获奖名单.pdf",
+      "pages": 13,
+      "status": "公示",
+      "sha256": "6b7c09a7a8ee9b42f1ba3e9f2d0e8efe64ce7abe9d8836722262017ac6247f29",
+      "retrieved": "2026-11-02",
+      "bytes": 510209
+    },
+    {
+      "id": "CMO-2022",
+      "year": 2022,
+      "kind": "CMO",
+      "title": "2022年全国中学生数学奥林匹克竞赛（决赛）获奖名单",
+      "url": "https://www.cms.org.cn/ueditor/php/upload/file/20230108/1673139646538938.pdf",
+      "article": "https://www.cms.org.cn/ueditor/php/upload/file/20230108/1673139646538938.pdf",
+      "local": "原始资料/CMO/2022-CMO获奖名单.pdf",
+      "pages": 12,
+      "status": "正式",
+      "sha256": "4e94c5a379dc497074b6e53ebde6242394c86379b3175c4f6b91a1f3f8ca3fd5",
+      "retrieved": "2026-11-02",
+      "bytes": 265145
+    },
+    {
+      "id": "CMO-2023",
+      "year": 2023,
+      "kind": "CMO",
+      "title": "2023年全国中学生数学奥林匹克竞赛（决赛）获奖名单",
+      "url": "https://www.cms.org.cn/Uploads/20231204/35b9db5826e4a542e5f2284414c1e735.pdf",
+      "article": "https://www.cms.org.cn/Uploads/20231204/35b9db5826e4a542e5f2284414c1e735.pdf",
+      "local": "原始资料/CMO/2023-CMO获奖名单.pdf",
+      "pages": 15,
+      "status": "正式",
+      "sha256": "102a3cd01dacd2313b5c0df6ad02c65ad160cadd23ae9c353df2d19ff872c75e",
+      "retrieved": "2026-11-02",
+      "bytes": 233678
+    },
+    {
+      "id": "CMO-2024",
+      "year": 2024,
+      "kind": "CMO",
+      "title": "2024年全国中学生数学奥林匹克竞赛（决赛）获奖名单",
+      "url": "https://www.cms.org.cn/Uploads/20241213/d43493c9caf4455e10bb662cbbffde71.pdf",
+      "article": "https://www.cms.org.cn/Uploads/20241213/d43493c9caf4455e10bb662cbbffde71.pdf",
+      "local": "原始资料/CMO/2024-CMO获奖名单.pdf",
+      "pages": 13,
+      "status": "正式",
+      "sha256": "f7138e30747efb718d87fe5b1c65d0c1347751f2ef01f255903a762aa3267ad8",
+      "retrieved": "2026-11-02",
+      "bytes": 353001
+    },
+    {
+      "id": "CMO-2025",
+      "year": 2025,
+      "kind": "CMO",
+      "title": "2025年全国中学生数学奥林匹克竞赛（决赛）获奖名单",
+      "url": "https://old2026.cms.org.cn/upload/file/20260420/1776645923730547.xlsx",
+      "article": "https://old2026.cms.org.cn/upload/file/20260420/1776645923730547.xlsx",
+      "local": "原始资料/CMO/2025-CMO获奖名单.xlsx",
+      "pages": 1,
+      "status": "正式",
+      "sha256": "68e2bad06b6ad9949853420e596ec563d89507ac62163d6d2a9e67f22f47399f",
+      "retrieved": "2026-11-02",
+      "bytes": 45530
+    },
+    {
+      "id": "IMO-CHN",
+      "year": 2026,
+      "kind": "IMO",
+      "title": "IMO官网中国队历年个人成绩（筛选2020—2026）",
+      "url": "https://www.imo-official.org/results/individual/country/CHN/",
+      "article": "https://www.imo-official.org/results/individual/country/CHN/",
+      "local": "原始资料/IMO/中国队个人成绩-官网快照.html",
+      "pages": 1,
+      "status": "正式",
+      "sha256": "afed38b6f9b32b1ca416792bfb547beca83074076c6bcb818405edc716cd59f3",
+      "retrieved": "2026-11-02",
+      "originNote": "本地保存官网HTML快照；广东身份由学校官网交叉核对"
+    }
+  ]
+}

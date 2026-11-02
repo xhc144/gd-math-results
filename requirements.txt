@@ -1,0 +1,8 @@
+PyMuPDF>=1.26
+pypinyin>=0.55
+openpyxl>=3.1
+requests>=2.32
+beautifulsoup4>=4.12
+rapidocr>=3.10
+onnxruntime>=1.20
+playwright>=1.50

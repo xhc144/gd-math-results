@@ -1,0 +1,105 @@
+{
+  "status": "passed",
+  "browser": "Microsoft Edge headless",
+  "offline": true,
+  "checks": [
+    {
+      "name": "离线加载全部真实记录",
+      "passed": true
+    },
+    {
+      "name": "翻页后显示41起",
+      "passed": true
+    },
+    {
+      "name": "中文姓名可查询",
+      "passed": true
+    },
+    {
+      "name": "拼音检索 lizexi",
+      "passed": true
+    },
+    {
+      "name": "全拼与中文结果一致 lizexi",
+      "passed": true
+    },
+    {
+      "name": "拼音检索 LI ZE XI",
+      "passed": true
+    },
+    {
+      "name": "全拼与中文结果一致 LI ZE XI",
+      "passed": true
+    },
+    {
+      "name": "拼音检索 lzx",
+      "passed": true
+    },
+    {
+      "name": "IMO冯晨旭官方世界17名31分",
+      "passed": true
+    },
+    {
+      "name": "跨赛事同名历年记录",
+      "passed": true
+    },
+    {
+      "name": "2026省队38条",
+      "passed": true
+    },
+    {
+      "name": "2024CMO广东38条",
+      "passed": true
+    },
+    {
+      "name": "同校同名原始标记不合并",
+      "passed": true
+    },
+    {
+      "name": "导出当前筛选含名次顺位和同名标记",
+      "passed": true
+    },
+    {
+      "name": "报名比对分类仅2026且未区分缺考",
+      "passed": true
+    },
+    {
+      "name": "无结果且不推断未获奖",
+      "passed": true
+    },
+    {
+      "name": "实际点击打开对应本地PDF页",
+      "passed": true
+    },
+    {
+      "name": "年度矩阵包含高联CMO与IMO",
+      "passed": true
+    },
+    {
+      "name": "全部来源可见",
+      "passed": true
+    },
+    {
+      "name": "390窄屏无页面横向溢出",
+      "passed": true
+    },
+    {
+      "name": "窄屏详情可打开关闭",
+      "passed": true
+    },
+    {
+      "name": "无JavaScript运行错误",
+      "passed": true
+    }
+  ],
+  "check_count": 22,
+  "errors": [],
+  "html_sha256": "7b6423f2ef68a4be6241d28918182f036db59dce0c161911fee983ae30974d11",
+  "screenshots": [
+    "桌面-年度收录.png",
+    "桌面-选手详情.png",
+    "桌面-首页.png",
+    "窄屏-选手详情.png",
+    "窄屏-首页.png"
+  ]
+}

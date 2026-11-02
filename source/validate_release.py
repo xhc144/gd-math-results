@@ -1,0 +1,42 @@
+"""独立检查可发布数据、来源闭包、分数/排名边界。只依赖标准库。"""
+from pathlib import Path
+from collections import Counter
+import json,hashlib,re
+ROOT=Path(__file__).resolve().parents[1]
+def main():
+    db=json.loads((ROOT/'data/查询数据.json').read_text(encoding='utf-8'));rows=db['records'];ss={s['id']:s for s in db['sources']}
+    assert len({r['id'] for r in rows})==len(rows)
+    checked=[]
+    for s in ss.values():
+        p=(ROOT/s['local']).resolve();assert p.is_relative_to(ROOT) and p.is_file(),s['id']
+        assert hashlib.sha256(p.read_bytes()).hexdigest()==s['sha256'],s['id']
+        checked.append(s['id'])
+    for r in rows:
+        assert r['name'] and r['school'] and r['aliases'],r['id']
+        assert all(x['source'] in ss and 1<=x['page']<=ss[x['source']]['pages'] for x in r['refs']),r['id']
+        if r['competition']=='IMO':
+            assert r['rank']>0 and sum(r['problem_scores'])==r['score'] and 0<=r['score']<=42
+        else:assert r['rank'] is None and r['score'] is None
+        if r['award']=='报名未见获奖':assert r['year']==2026 and r['list_order'] is None and not r['team']
+    hl=Counter((r['year'],r['award']) for r in rows if r['competition']=='高联' and r['award'])
+    expected={2020:(88,257,319),2021:(89,291,378),2022:(99,307,407),2023:(93,357,410),2024:(90,390,546),2025:(102,465,530),2026:(99,720,738)}
+    for y,counts in expected.items():
+        assert tuple(hl[(y,k)] for k in ['一等奖','二等奖','三等奖'])==counts,(y,counts)
+        positions=sorted(r['list_order'] for r in rows if r['year']==y and r['competition']=='高联' and r['award'] in ['一等奖','二等奖','三等奖'])
+        assert positions==list(range(1,sum(counts)+1)),y
+    assert Counter(r['year'] for r in rows if r['competition']=='CMO')=={2020:25,2021:31,2022:34,2023:34,2024:38,2025:38}
+    assert sum(r['competition']=='IMO' for r in rows)==4
+    twins=[r for r in rows if r['year']==2026 and r['name']=='黄梓睿' and r['award']=='二等奖']
+    assert {r['marker'] for r in twins}=={'1','2'}
+    text=(ROOT/'广东数学竞赛成绩查询.html').read_text(encoding='utf-8')
+    embedded=re.search(r'<script id="dataset" type="application/json">(.*?)</script>',text,re.S).group(1)
+    assert json.loads(embedded)==db
+    # 页面必须离线自足，不能依靠外部JS/CSS网络请求加载查询。
+    assert not re.search(r'<script[^>]+src=|<link[^>]+rel=["\']stylesheet',text,re.I)
+    report=dict(status='passed',records=len(rows),sources=len(ss),years=db['years'],competition_counts=dict(Counter(r['competition'] for r in rows)),
+                verified_source_ids=checked,hashes=dict(html=hashlib.sha256(text.encode()).hexdigest(),data=hashlib.sha256((ROOT/'data/查询数据.json').read_bytes()).hexdigest()),
+                pending_name_count=sum(bool(r.get('name_uncertain')) for r in rows),
+                boundaries=['仅IMO四条有官方分数与世界名次；高联CMO为名单顺位','扫描件不是全部字段逐字人工校勘','报名差集不区分未获奖与缺考'])
+    out=ROOT/'evidence/数据与交付核验.json';out.parent.mkdir(exist_ok=True,parents=True);out.write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
+    print(json.dumps({k:report[k] for k in ['status','records','sources','competition_counts','pending_name_count']},ensure_ascii=False))
+if __name__=='__main__':main()

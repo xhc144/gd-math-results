@@ -1,0 +1,1325 @@
+[
+  {
+    "source": "2020-一等奖-2546",
+    "pages": [
+      {
+        "page": 1,
+        "count": 50,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 38,
+        "native": false
+      }
+    ],
+    "rows": 88,
+    "errors": []
+  },
+  {
+    "source": "2020-二等奖-2546",
+    "pages": [
+      {
+        "page": 1,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 46,
+        "native": false
+      },
+      {
+        "page": 3,
+        "count": 46,
+        "native": false
+      },
+      {
+        "page": 4,
+        "count": 46,
+        "native": false
+      },
+      {
+        "page": 5,
+        "count": 46,
+        "native": false
+      },
+      {
+        "page": 6,
+        "count": 29,
+        "native": false
+      }
+    ],
+    "rows": 257,
+    "errors": []
+  },
+  {
+    "source": "2020-三等奖-2546",
+    "pages": [
+      {
+        "page": 1,
+        "count": 48,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 50,
+        "native": false
+      },
+      {
+        "page": 3,
+        "count": 50,
+        "native": false
+      },
+      {
+        "page": 4,
+        "count": 50,
+        "native": false
+      },
+      {
+        "page": 5,
+        "count": 50,
+        "native": false
+      },
+      {
+        "page": 6,
+        "count": 50,
+        "native": false
+      },
+      {
+        "page": 7,
+        "count": 21,
+        "native": false
+      }
+    ],
+    "rows": 319,
+    "errors": []
+  },
+  {
+    "source": "2020-省队及省一公示-2501",
+    "pages": [
+      {
+        "page": 3,
+        "count": 24,
+        "native": false
+      }
+    ],
+    "rows": 24,
+    "errors": []
+  },
+  {
+    "source": "2021-省队-2840",
+    "pages": [
+      {
+        "page": 1,
+        "count": 32,
+        "native": false
+      }
+    ],
+    "rows": 32,
+    "errors": []
+  },
+  {
+    "source": "2021-一等奖-2840",
+    "pages": [
+      {
+        "page": 1,
+        "count": 37,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 40,
+        "native": false
+      },
+      {
+        "page": 3,
+        "count": 12,
+        "native": false
+      }
+    ],
+    "rows": 89,
+    "errors": []
+  },
+  {
+    "source": "2021-二等奖-2840",
+    "pages": [
+      {
+        "page": 1,
+        "count": 35,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 38,
+        "native": false
+      },
+      {
+        "page": 3,
+        "count": 38,
+        "native": false
+      },
+      {
+        "page": 4,
+        "count": 38,
+        "native": false
+      },
+      {
+        "page": 5,
+        "count": 38,
+        "native": false
+      },
+      {
+        "page": 6,
+        "count": 38,
+        "native": false
+      },
+      {
+        "page": 7,
+        "count": 38,
+        "native": false
+      },
+      {
+        "page": 8,
+        "count": 28,
+        "native": false
+      }
+    ],
+    "rows": 291,
+    "errors": []
+  },
+  {
+    "source": "2021-三等奖-2840",
+    "pages": [
+      {
+        "page": 1,
+        "count": 35,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 38,
+        "native": false
+      },
+      {
+        "page": 3,
+        "count": 38,
+        "native": false
+      },
+      {
+        "page": 4,
+        "count": 38,
+        "native": false
+      },
+      {
+        "page": 5,
+        "count": 38,
+        "native": false
+      },
+      {
+        "page": 6,
+        "count": 38,
+        "native": false
+      },
+      {
+        "page": 7,
+        "count": 38,
+        "native": false
+      },
+      {
+        "page": 8,
+        "count": 38,
+        "native": false
+      },
+      {
+        "page": 9,
+        "count": 38,
+        "native": false
+      },
+      {
+        "page": 10,
+        "count": 38,
+        "native": false
+      },
+      {
+        "page": 11,
+        "count": 1,
+        "native": false
+      }
+    ],
+    "rows": 378,
+    "errors": []
+  },
+  {
+    "source": "2022-二等奖-3114",
+    "pages": [
+      {
+        "page": 1,
+        "count": 50,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 53,
+        "native": false
+      },
+      {
+        "page": 3,
+        "count": 53,
+        "native": false
+      },
+      {
+        "page": 4,
+        "count": 53,
+        "native": false
+      },
+      {
+        "page": 5,
+        "count": 53,
+        "native": false
+      },
+      {
+        "page": 6,
+        "count": 45,
+        "native": false
+      }
+    ],
+    "rows": 307,
+    "errors": []
+  },
+  {
+    "source": "2023-省队-3324",
+    "pages": [
+      {
+        "page": 1,
+        "count": 34,
+        "native": false
+      }
+    ],
+    "rows": 34,
+    "errors": []
+  },
+  {
+    "source": "2023-一等奖-3325",
+    "pages": [
+      {
+        "page": 1,
+        "count": 55,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 38,
+        "native": false
+      }
+    ],
+    "rows": 93,
+    "errors": []
+  },
+  {
+    "source": "2023-二等奖-3341",
+    "pages": [
+      {
+        "page": 1,
+        "count": 37,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 3,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 4,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 5,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 6,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 7,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 8,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 9,
+        "count": 33,
+        "native": false
+      }
+    ],
+    "rows": 357,
+    "errors": []
+  },
+  {
+    "source": "2023-三等奖-3341",
+    "pages": [
+      {
+        "page": 1,
+        "count": 37,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 3,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 4,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 5,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 6,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 7,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 8,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 9,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 10,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 11,
+        "count": 4,
+        "native": false
+      }
+    ],
+    "rows": 410,
+    "errors": []
+  },
+  {
+    "source": "2024-省队-3583",
+    "pages": [
+      {
+        "page": 1,
+        "count": 29,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 10,
+        "native": false
+      }
+    ],
+    "rows": 39,
+    "errors": []
+  },
+  {
+    "source": "2024-一等奖-3583",
+    "pages": [
+      {
+        "page": 1,
+        "count": 25,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 27,
+        "native": false
+      },
+      {
+        "page": 3,
+        "count": 27,
+        "native": false
+      },
+      {
+        "page": 4,
+        "count": 11,
+        "native": false
+      }
+    ],
+    "rows": 90,
+    "errors": []
+  },
+  {
+    "source": "2024-二等奖-3583",
+    "pages": [
+      {
+        "page": 1,
+        "count": 29,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 33,
+        "native": false
+      },
+      {
+        "page": 3,
+        "count": 33,
+        "native": false
+      },
+      {
+        "page": 4,
+        "count": 33,
+        "native": false
+      },
+      {
+        "page": 5,
+        "count": 33,
+        "native": false
+      },
+      {
+        "page": 6,
+        "count": 33,
+        "native": false
+      },
+      {
+        "page": 7,
+        "count": 33,
+        "native": false
+      },
+      {
+        "page": 8,
+        "count": 33,
+        "native": false
+      },
+      {
+        "page": 9,
+        "count": 33,
+        "native": false
+      },
+      {
+        "page": 10,
+        "count": 33,
+        "native": false
+      },
+      {
+        "page": 11,
+        "count": 33,
+        "native": false
+      },
+      {
+        "page": 12,
+        "count": 31,
+        "native": false
+      }
+    ],
+    "rows": 390,
+    "errors": []
+  },
+  {
+    "source": "2024-三等奖-3583",
+    "pages": [
+      {
+        "page": 1,
+        "count": 37,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 3,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 4,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 5,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 6,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 7,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 8,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 9,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 10,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 11,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 12,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 13,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 14,
+        "count": 17,
+        "native": false
+      }
+    ],
+    "rows": 546,
+    "errors": []
+  },
+  {
+    "source": "2025-省队-3772",
+    "pages": [
+      {
+        "page": 1,
+        "count": 39,
+        "native": false
+      }
+    ],
+    "rows": 39,
+    "errors": []
+  },
+  {
+    "source": "2025-一等奖-3781",
+    "pages": [
+      {
+        "page": 1,
+        "count": 39,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 41,
+        "native": false
+      },
+      {
+        "page": 3,
+        "count": 22,
+        "native": false
+      }
+    ],
+    "rows": 102,
+    "errors": []
+  },
+  {
+    "source": "2025-二等奖-3781",
+    "pages": [
+      {
+        "page": 1,
+        "count": 38,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 3,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 4,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 5,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 6,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 7,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 8,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 9,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 10,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 11,
+        "count": 31,
+        "native": false
+      }
+    ],
+    "rows": 465,
+    "errors": []
+  },
+  {
+    "source": "2025-三等奖-3781",
+    "pages": [
+      {
+        "page": 1,
+        "count": 37,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 3,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 4,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 5,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 6,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 7,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 8,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 9,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 10,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 11,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 12,
+        "count": 44,
+        "native": false
+      },
+      {
+        "page": 13,
+        "count": 9,
+        "native": false
+      }
+    ],
+    "rows": 530,
+    "errors": []
+  },
+  {
+    "source": "2022-一等奖-3130",
+    "pages": [
+      {
+        "page": 1,
+        "count": 46,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 49,
+        "native": false
+      },
+      {
+        "page": 3,
+        "count": 4,
+        "native": false
+      }
+    ],
+    "rows": 99,
+    "errors": []
+  },
+  {
+    "source": "2022-省队-3090",
+    "pages": [
+      {
+        "page": 1,
+        "count": 36,
+        "native": false
+      }
+    ],
+    "rows": 36,
+    "errors": []
+  },
+  {
+    "source": "2026-省队-3977",
+    "pages": [
+      {
+        "page": 1,
+        "count": 38,
+        "native": true
+      }
+    ],
+    "rows": 38,
+    "errors": []
+  },
+  {
+    "source": "2026-一等奖-3978",
+    "pages": [
+      {
+        "page": 1,
+        "count": 24,
+        "native": true
+      },
+      {
+        "page": 2,
+        "count": 27,
+        "native": true
+      },
+      {
+        "page": 3,
+        "count": 27,
+        "native": true
+      },
+      {
+        "page": 4,
+        "count": 21,
+        "native": true
+      }
+    ],
+    "rows": 99,
+    "errors": []
+  },
+  {
+    "source": "2026-二等奖-3979",
+    "pages": [
+      {
+        "page": 1,
+        "count": 36,
+        "native": true
+      },
+      {
+        "page": 2,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 3,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 4,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 5,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 6,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 7,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 8,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 9,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 10,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 11,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 12,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 13,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 14,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 15,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 16,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 17,
+        "count": 39,
+        "native": true
+      }
+    ],
+    "rows": 720,
+    "errors": []
+  },
+  {
+    "source": "2026-三等奖-3980",
+    "pages": [
+      {
+        "page": 1,
+        "count": 36,
+        "native": true
+      },
+      {
+        "page": 2,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 3,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 4,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 5,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 6,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 7,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 8,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 9,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 10,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 11,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 12,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 13,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 14,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 15,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 16,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 17,
+        "count": 43,
+        "native": true
+      },
+      {
+        "page": 18,
+        "count": 14,
+        "native": true
+      }
+    ],
+    "rows": 738,
+    "errors": []
+  },
+  {
+    "source": "2022-三等奖-3115",
+    "pages": [
+      {
+        "page": 1,
+        "count": 51,
+        "native": false
+      },
+      {
+        "page": 2,
+        "count": 56,
+        "native": false
+      },
+      {
+        "page": 3,
+        "count": 56,
+        "native": false
+      },
+      {
+        "page": 4,
+        "count": 56,
+        "native": false
+      },
+      {
+        "page": 5,
+        "count": 56,
+        "native": false
+      },
+      {
+        "page": 6,
+        "count": 56,
+        "native": false
+      },
+      {
+        "page": 7,
+        "count": 56,
+        "native": false
+      },
+      {
+        "page": 8,
+        "count": 20,
+        "native": false
+      }
+    ],
+    "rows": 407,
+    "errors": []
+  },
+  {
+    "source": "2026-省队-3933",
+    "pages": [
+      {
+        "page": 1,
+        "count": 0,
+        "native": true
+      },
+      {
+        "page": 2,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 3,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 4,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 5,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 6,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 7,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 8,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 9,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 10,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 11,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 12,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 13,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 14,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 15,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 16,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 17,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 18,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 19,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 20,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 21,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 22,
+        "count": 61,
+        "native": true
+      },
+      {
+        "page": 23,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 24,
+        "count": 61,
+        "native": true
+      },
+      {
+        "page": 25,
+        "count": 61,
+        "native": true
+      },
+      {
+        "page": 26,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 27,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 28,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 29,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 30,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 31,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 32,
+        "count": 61,
+        "native": true
+      },
+      {
+        "page": 33,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 34,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 35,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 36,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 37,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 38,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 39,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 40,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 41,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 42,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 43,
+        "count": 60,
+        "native": true
+      },
+      {
+        "page": 44,
+        "count": 42,
+        "native": true
+      }
+    ],
+    "rows": 2566,
+    "errors": []
+  }
+]

@@ -1,0 +1,378 @@
+{
+  "cmo": [
+    {
+      "year": 2020,
+      "total": 449,
+      "medals": {
+        "金牌": 144,
+        "银牌": 195,
+        "铜牌": 110
+      },
+      "guangdong": 25
+    },
+    {
+      "year": 2021,
+      "total": 555,
+      "medals": {
+        "金牌": 183,
+        "银牌": 229,
+        "铜牌": 143
+      },
+      "guangdong": 31
+    },
+    {
+      "year": 2022,
+      "total": 591,
+      "medals": {
+        "金牌": 201,
+        "银牌": 258,
+        "铜牌": 132
+      },
+      "guangdong": 34
+    },
+    {
+      "year": 2023,
+      "total": 653,
+      "medals": {
+        "金牌": 226,
+        "银牌": 290,
+        "铜牌": 137
+      },
+      "guangdong": 34
+    },
+    {
+      "year": 2024,
+      "total": 671,
+      "medals": {
+        "金牌": 213,
+        "银牌": 293,
+        "铜牌": 165
+      },
+      "guangdong": 38
+    },
+    {
+      "year": 2025,
+      "total": 686,
+      "medals": {
+        "金牌": 219,
+        "银牌": 285,
+        "铜牌": 182
+      },
+      "guangdong": 38
+    }
+  ],
+  "imo_china": [
+    {
+      "year": 2026,
+      "english": "Leyan Deng",
+      "rank": "1",
+      "award": "G",
+      "score": "42"
+    },
+    {
+      "year": 2026,
+      "english": "Che Liu",
+      "rank": "1",
+      "award": "G",
+      "score": "42"
+    },
+    {
+      "year": 2026,
+      "english": "Bolun Zhang",
+      "rank": "1",
+      "award": "G",
+      "score": "42"
+    },
+    {
+      "year": 2026,
+      "english": "Zhenqian Peng",
+      "rank": "12",
+      "award": "G",
+      "score": "38"
+    },
+    {
+      "year": 2026,
+      "english": "Yuxuan Peng",
+      "rank": "14",
+      "award": "G",
+      "score": "36"
+    },
+    {
+      "year": 2026,
+      "english": "Chen Yang",
+      "rank": "28",
+      "award": "G",
+      "score": "32"
+    },
+    {
+      "year": 2025,
+      "english": "Leyan Deng",
+      "rank": "1",
+      "award": "G",
+      "score": "42"
+    },
+    {
+      "year": 2025,
+      "english": "Hengye Zhang",
+      "rank": "1",
+      "award": "G",
+      "score": "42"
+    },
+    {
+      "year": 2025,
+      "english": "Hongyi Tan",
+      "rank": "6",
+      "award": "G",
+      "score": "40"
+    },
+    {
+      "year": 2025,
+      "english": "Zhewen Deng",
+      "rank": "12",
+      "award": "G",
+      "score": "36"
+    },
+    {
+      "year": 2025,
+      "english": "Qiming Xu",
+      "rank": "12",
+      "award": "G",
+      "score": "36"
+    },
+    {
+      "year": 2025,
+      "english": "Zhenyu Dong",
+      "rank": "27",
+      "award": "G",
+      "score": "35"
+    },
+    {
+      "year": 2024,
+      "english": "Haojia Shi",
+      "rank": "1",
+      "award": "G",
+      "score": "42"
+    },
+    {
+      "year": 2024,
+      "english": "Qiming Xu",
+      "rank": "5",
+      "award": "G",
+      "score": "35"
+    },
+    {
+      "year": 2024,
+      "english": "Zhewen Deng",
+      "rank": "29",
+      "award": "G",
+      "score": "30"
+    },
+    {
+      "year": 2024,
+      "english": "Chunji Wang",
+      "rank": "29",
+      "award": "G",
+      "score": "30"
+    },
+    {
+      "year": 2024,
+      "english": "Xianbang Wang",
+      "rank": "29",
+      "award": "G",
+      "score": "30"
+    },
+    {
+      "year": 2024,
+      "english": "Yuxing Ye",
+      "rank": "125",
+      "award": "S",
+      "score": "23"
+    },
+    {
+      "year": 2023,
+      "english": "Haojia Shi",
+      "rank": "1",
+      "award": "G",
+      "score": "42"
+    },
+    {
+      "year": 2023,
+      "english": "Chunji Wang",
+      "rank": "1",
+      "award": "G",
+      "score": "42"
+    },
+    {
+      "year": 2023,
+      "english": "Xingjian Liang",
+      "rank": "6",
+      "award": "G",
+      "score": "41"
+    },
+    {
+      "year": 2023,
+      "english": "Xinliang Zhang",
+      "rank": "6",
+      "award": "G",
+      "score": "41"
+    },
+    {
+      "year": 2023,
+      "english": "Qiao Sun",
+      "rank": "11",
+      "award": "G",
+      "score": "39"
+    },
+    {
+      "year": 2023,
+      "english": "Zhicheng Jiang",
+      "rank": "28",
+      "award": "G",
+      "score": "35"
+    },
+    {
+      "year": 2022,
+      "english": "Cheng Jiang",
+      "rank": "1",
+      "award": "G",
+      "score": "42"
+    },
+    {
+      "year": 2022,
+      "english": "Yubo Liao",
+      "rank": "1",
+      "award": "G",
+      "score": "42"
+    },
+    {
+      "year": 2022,
+      "english": "Jiayu Liu",
+      "rank": "1",
+      "award": "G",
+      "score": "42"
+    },
+    {
+      "year": 2022,
+      "english": "Xiaoyu Qu",
+      "rank": "1",
+      "award": "G",
+      "score": "42"
+    },
+    {
+      "year": 2022,
+      "english": "Yiran Zhang",
+      "rank": "1",
+      "award": "G",
+      "score": "42"
+    },
+    {
+      "year": 2022,
+      "english": "Zhicheng Zhang",
+      "rank": "1",
+      "award": "G",
+      "score": "42"
+    },
+    {
+      "year": 2021,
+      "english": "Yichuan Wang",
+      "rank": "1",
+      "award": "G",
+      "score": "42"
+    },
+    {
+      "year": 2021,
+      "english": "Yebo Peng",
+      "rank": "3",
+      "award": "G",
+      "score": "36"
+    },
+    {
+      "year": 2021,
+      "english": "Chen Wei",
+      "rank": "3",
+      "award": "G",
+      "score": "36"
+    },
+    {
+      "year": 2021,
+      "english": "Yuxing Xia",
+      "rank": "15",
+      "award": "G",
+      "score": "32"
+    },
+    {
+      "year": 2021,
+      "english": "Ruitao Chen",
+      "rank": "17",
+      "award": "G",
+      "score": "31"
+    },
+    {
+      "year": 2021,
+      "english": "Chenxu Feng",
+      "rank": "17",
+      "award": "G",
+      "score": "31"
+    },
+    {
+      "year": 2020,
+      "english": "Jinmin Li",
+      "rank": "1",
+      "award": "G",
+      "score": "42"
+    },
+    {
+      "year": 2020,
+      "english": "Xinmiao Han",
+      "rank": "2",
+      "award": "G",
+      "score": "40"
+    },
+    {
+      "year": 2020,
+      "english": "Jia Yi",
+      "rank": "3",
+      "award": "G",
+      "score": "37"
+    },
+    {
+      "year": 2020,
+      "english": "Jingxun Liang",
+      "rank": "4",
+      "award": "G",
+      "score": "36"
+    },
+    {
+      "year": 2020,
+      "english": "Rui Rao",
+      "rank": "43",
+      "award": "G",
+      "score": "31"
+    },
+    {
+      "year": 2020,
+      "english": "Binwei Yan",
+      "rank": "59",
+      "award": "S",
+      "score": "29"
+    }
+  ],
+  "included_guangdong": [
+    [
+      2020,
+      "Rui Rao"
+    ],
+    [
+      2021,
+      "Chenxu Feng"
+    ],
+    [
+      2021,
+      "Yebo Peng"
+    ],
+    [
+      2023,
+      "Zhicheng Jiang"
+    ]
+  ]
+}
