@@ -1,6 +1,8 @@
 {
   "status": "passed",
   "records": 8013,
+  "people": 5957,
+  "merged_people": 1514,
   "sources": 36,
   "years": [
     2020,
@@ -55,8 +57,8 @@
     "IMO-CHN"
   ],
   "hashes": {
-    "html": "1faf6c46ee409a61619bdb219013dbca6c73f825e9c958a30fe2d2a747c1b01c",
-    "data": "e8318059f6c0466eb2a5cf5907fad392926ed16ad45c69ec6a372102b13fb845"
+    "html": "3a76b1b5783fcaa5632c6b7c37d96ea47d8eee9818aee07878c59ffbc382f2d0",
+    "data": "b2a03ddc4c81b6626510e64711e8966dd32b0625acf01f1cb71f2d722ea97ca8"
   },
   "pending_name_count": 6,
   "boundaries": [

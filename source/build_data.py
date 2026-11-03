@@ -222,6 +222,8 @@ def build(provisional=False):
     save('evidence/报名比对.json',dict(summary=regsummary,uncertain=uncertain,method='同年姓名+规范化学校精确匹配；仅校名不一致的同名者不生成未获奖分类；未核验出席'))
     db=dict(schemaVersion=1,updated='2026-11-02',years=sorted(set(r['year'] for r in records)),records=records,sources=sources,
             registration=regsummary,registrationNote='“未获奖 / 缺考（未区分）”来自2026年报名公示-2与已收录奖项名单的差集；并非签到结果。2020—2025年暂不判断是否未获奖或缺考。')
+    from build_people import build_people
+    db=build_people(db)
     save('data/查询数据.json',db)
     template=(ROOT/'source/查询页模板.html').read_text(encoding='utf-8')
     html=template.replace('{{DATA}}',json.dumps(db,ensure_ascii=False,separators=(',',':')).replace('</','<\\/'))
@@ -230,6 +232,8 @@ def build(provisional=False):
         w=csv.writer(f);w.writerow(['赛事','年份','姓名','原名单同名标记','姓名拼音','学校','年级','奖项','省队资格','状态','编号','分数','官方名次','名单顺位','顺位口径'])
         for r in records:w.writerow([r['competition'],r['year'],r['name'],r.get('marker',''),r['pinyin'],r['school'],r['grade'],r['award'],'是' if r['team'] else '否',r['status'],r['code'],r['score'] if r['score'] is not None else '未公布',r['rank'] or '',r['list_order'] or '',r['rank_label']])
     counts=[dict(year=y,**{k:sum(r['year']==y and r['competition']=='高联' and (r['team'] if k=='省队' else r['award']==k) for r in records) for k in ['省队','一等奖','二等奖','三等奖','报名未见获奖']}) for y in db['years']]
+    from render_site import write_csv
+    write_csv(db)
     save('evidence/年度条目统计.json',counts)
     print(json.dumps(dict(records=len(records),sources=len(sources),years=counts,registration=regsummary),ensure_ascii=False,indent=2))
 

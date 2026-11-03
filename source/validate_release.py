@@ -28,12 +28,26 @@ def main():
     assert sum(r['competition']=='IMO' for r in rows)==4
     twins=[r for r in rows if r['year']==2026 and r['name']=='黄梓睿' and r['award']=='二等奖']
     assert {r['marker'] for r in twins}=={'1','2'}
+    pp={p['id']:p for p in db['people']}
+    assert len(pp)==len(db['people'])
+    memberships=Counter(rid for p in pp.values() for rid in p['record_ids'])
+    assert memberships==Counter(r['id'] for r in rows), '每一条成绩必须且只属于一个档案'
+    byid={r['id']:r for r in rows}
+    for p in pp.values():
+        assert all(byid[rid]['person_id']==p['id'] and byid[rid]['name']==p['name'] for rid in p['record_ids'])
+        assert set(p['years'])=={byid[rid]['year'] for rid in p['record_ids']}
+    def persons(name):return [p for p in pp.values() if p['name']==name]
+    xue=persons('薛浩琛');assert len(xue)==1 and xue[0]['years']==[2025,2026]
+    feng=persons('冯晨旭');assert len(feng)==1 and {byid[rid]['competition'] for rid in feng[0]['record_ids']}=={'高联','CMO','IMO'}
+    li=persons('李泽熙');assert len(li)==2 and {p['school'] for p in li}=={'深圳中学','华南师范大学附属中学'}
+    assert len({r['person_id'] for r in twins})==2, '同场次同名数字标记不能合为一人'
+    wang=persons('王梓墨');assert len(wang)==1 and wang[0]['years']==[2024,2025,2026]
     text=(ROOT/'广东数学竞赛成绩查询.html').read_text(encoding='utf-8')
     embedded=re.search(r'<script id="dataset" type="application/json">(.*?)</script>',text,re.S).group(1)
     assert json.loads(embedded)==db
     # 页面必须离线自足，不能依靠外部JS/CSS网络请求加载查询。
     assert not re.search(r'<script[^>]+src=|<link[^>]+rel=["\']stylesheet',text,re.I)
-    report=dict(status='passed',records=len(rows),sources=len(ss),years=db['years'],competition_counts=dict(Counter(r['competition'] for r in rows)),
+    report=dict(status='passed',records=len(rows),people=len(pp),merged_people=sum(len(p['record_ids'])>1 for p in pp.values()),sources=len(ss),years=db['years'],competition_counts=dict(Counter(r['competition'] for r in rows)),
                 verified_source_ids=checked,hashes=dict(html=hashlib.sha256(text.encode()).hexdigest(),data=hashlib.sha256((ROOT/'data/查询数据.json').read_bytes()).hexdigest()),
                 pending_name_count=sum(bool(r.get('name_uncertain')) for r in rows),
                 boundaries=['仅IMO四条有官方分数与世界名次；高联CMO为名单顺位','扫描件不是全部字段逐字人工校勘','报名差集不区分未获奖与缺考'])

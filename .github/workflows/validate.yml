@@ -11,4 +11,5 @@ jobs:
         with:
           python-version: '3.13'
       - run: python source/render_site.py
+      - run: python source/test_people.py
       - run: python source/validate_release.py

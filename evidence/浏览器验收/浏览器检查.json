@@ -8,7 +8,59 @@
       "passed": true
     },
     {
+      "name": "默认按个人档案去重展示",
+      "passed": true
+    },
+    {
+      "name": "首页隐藏高级筛选与长说明",
+      "passed": true
+    },
+    {
+      "name": "高级搜索实际展开筛选",
+      "passed": true
+    },
+    {
       "name": "翻页后显示41起",
+      "passed": true
+    },
+    {
+      "name": "薛浩琛两年合为一行",
+      "passed": true
+    },
+    {
+      "name": "个人详情包含2025与2026",
+      "passed": true
+    },
+    {
+      "name": "个人链接新页及刷新直达同一档案",
+      "passed": true
+    },
+    {
+      "name": "李泽熙两校同名分成两份档案",
+      "passed": true
+    },
+    {
+      "name": "详情没有混入另一同名者学校",
+      "passed": true
+    },
+    {
+      "name": "其他同名档案有核对入口",
+      "passed": true
+    },
+    {
+      "name": "可切换另一同名者且记录独立",
+      "passed": true
+    },
+    {
+      "name": "校名变化三年归为一个人",
+      "passed": true
+    },
+    {
+      "name": "按IMO筛出单人且保留完整履历",
+      "passed": true
+    },
+    {
+      "name": "筛选后个人页仍汇总高联CMOIMO五条",
       "passed": true
     },
     {
@@ -84,6 +136,10 @@
       "passed": true
     },
     {
+      "name": "窄屏同一人只显示一张卡片",
+      "passed": true
+    },
+    {
       "name": "窄屏详情可打开关闭",
       "passed": true
     },
@@ -92,13 +148,15 @@
       "passed": true
     }
   ],
-  "check_count": 22,
+  "check_count": 36,
   "errors": [],
-  "html_sha256": "7b6423f2ef68a4be6241d28918182f036db59dce0c161911fee983ae30974d11",
+  "html_sha256": "ca5210181a0a49c67e4e7d3c7b0c9f949a5f0c3548405eec6fd864a06f4a8bc3",
   "screenshots": [
+    "桌面-个人合并查询.png",
     "桌面-年度收录.png",
     "桌面-选手详情.png",
     "桌面-首页.png",
+    "窄屏-个人合并查询.png",
     "窄屏-选手详情.png",
     "窄屏-首页.png"
   ]
