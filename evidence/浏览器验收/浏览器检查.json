@@ -64,6 +64,10 @@
       "passed": true
     },
     {
+      "name": "详情按PersonInfo只显示选手信息与获奖表",
+      "passed": true
+    },
+    {
       "name": "中文姓名可查询",
       "passed": true
     },
@@ -148,12 +152,13 @@
       "passed": true
     }
   ],
-  "check_count": 36,
+  "check_count": 37,
   "errors": [],
-  "html_sha256": "ca5210181a0a49c67e4e7d3c7b0c9f949a5f0c3548405eec6fd864a06f4a8bc3",
+  "html_sha256": "b92e928fa030ac6e25ac9e437c385d298a9653138ec7984425e82ca5ebe909d3",
   "screenshots": [
     "桌面-个人合并查询.png",
     "桌面-年度收录.png",
+    "桌面-薛浩琛个人页.png",
     "桌面-选手详情.png",
     "桌面-首页.png",
     "窄屏-个人合并查询.png",

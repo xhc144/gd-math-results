@@ -55,4 +55,4 @@ python source/check_browser.py
 
 程序以 **AGPL-3.0** 开源，作者 xhc144。官方原始附件不纳入程序许可证，权利归原发布者。公开名单事实按来源保留与引用，不附加个人评价。
 
-界面与使用方式参考 [OIerDb](https://oier.baoshuo.dev/) / [OIerDb-ng/OIerDb](https://github.com/OIerDb-ng/OIerDb) 的搜索、表格和选手详情结构；本项目独立实现，未复制其应用代码、徽标或评分算法。
+界面对照 [OIerDb](https://oier.baoshuo.dev/) / [OIerDb-ng/OIerDb](https://github.com/OIerDb-ng/OIerDb)（e104eb6）的 `Search`、`SearchResult`、`PersonCard`、`PersonInfo` 源码结构适配：折叠高级搜索、按人展示、姓名弹窗、选手信息与获奖表。适配为独立离线 HTML，保留 AGPL-3.0；不使用其徽标或信息学评分算法。
