@@ -2,11 +2,15 @@
 from pathlib import Path
 from collections import defaultdict, Counter
 import hashlib, json, re, unicodedata
+from functools import lru_cache
 
 ROOT = Path(__file__).resolve().parents[1]
 SCHOOL_ALIASES = {
+    '广东省深圳中学': '深圳中学',
     '深圳高级中学': '深圳市高级中学',
     '深圳市高级中学中心校区': '深圳市高级中学',
+    '深圳高级中学(集团)': '深圳市高级中学',
+    '深圳高级中学(集团)中心校区': '深圳市高级中学',
     '佛山南海区石门中学': '佛山市南海区石门中学',
     '佛山市南海区石门中学高中部': '佛山市南海区石门中学',
     '广东省珠海市第一中学': '珠海市第一中学',
@@ -20,6 +24,7 @@ SCHOOL_ALIASES = {
     '深圳外国语学校(包含集团校及高中园)': '深圳外国语学校',
 }
 
+@lru_cache(maxsize=16384)
 def school_key(s):
     s = re.sub(r'\s+', '', unicodedata.normalize('NFKC', s))
     # OCR 将相邻的准考证号粘入学校列；只改索引，不覆盖原始校名。
@@ -38,6 +43,27 @@ def digest(value):
 
 def build_people(db, write_report=True):
     rows = db['records']
+    if write_report:
+        # 这些前缀只用于本项目可重建的补充行。重建时替换，避免旧候选滞留。
+        rows[:]=[r for r in rows if not r['id'].startswith(('prelim-','reg-','supp-'))]
+        db['sources'][:]=[s for s in db['sources'] if s['kind'] not in ['广东初赛','考场安排'] and not(s['kind']=='报名名单' and s['year']!=2026)]
+        for r in rows:r.pop('registration_refs',None)
+        db['supplementalCoverage']=[]
+    for supplemental_path in ([ROOT/'data/补充考生记录.json',ROOT/'data/广东初赛记录.json',ROOT/'data/报名补充记录.json'] if write_report else []):
+        if not supplemental_path.exists():continue
+        extra=json.loads(supplemental_path.read_text(encoding='utf-8'))
+        ids={r['id'] for r in rows}
+        for r in extra['records']:
+            if r['id'] not in ids:rows.append(r.copy());ids.add(r['id'])
+        source_ids={s['id'] for s in db['sources']}
+        for s in extra['sources']:
+            if s['id'] not in source_ids:db['sources'].append(s.copy());source_ids.add(s['id'])
+        if extra.get('coverage'):db['supplementalCoverage'].extend(extra['coverage'])
+        for link in extra.get('links',[]):
+            target=next((r for r in rows if r['id']==link['record_id']),None)
+            if target:target.setdefault('registration_refs',[]).append(link)
+    if write_report:
+        db['registrationNote']='已比对2020、2025、2026报名表；2024仅专项核对1名考生，其他年份报名资料尚未完整入库。未见获奖记录不证明实际缺考；OCR或身份匹配有疑者另列待核。年级按原表保留，不据年级差异排除报名匹配。'
     groups = defaultdict(list)
     for r in rows:
         r['school_key'] = school_key(r['school'])
@@ -80,7 +106,7 @@ def build_people(db, write_report=True):
         for r in blocked:
             bundles.append(([r], '同年同校同名出现多条；跨年数字标记未核实，暂不关联', True))
         for items, reason, review in bundles:
-            items.sort(key=lambda r: (-r['year'], {'IMO': 0, 'CMO': 1, '高联': 2}[r['competition']], r['id']))
+            items.sort(key=lambda r: (-r['year'], {'IMO': 0, 'CMO': 1, '高联': 2,'广东初赛':3}[r['competition']], r['id']))
             cohorts = sorted({cohort(r) for r in items if cohort(r) is not None})
             anchor = str(cohorts) if cohorts and not any(r in blocked for r in items) else items[-1]['id']
             pid = 'person-' + digest(name+'|'+school+'|'+anchor)

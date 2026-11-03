@@ -224,9 +224,12 @@ def build(provisional=False):
             registration=regsummary,registrationNote='“未获奖 / 缺考（未区分）”来自2026年报名公示-2与已收录奖项名单的差集；并非签到结果。2020—2025年暂不判断是否未获奖或缺考。')
     from build_people import build_people
     db=build_people(db)
+    from build_scores import build_scores
+    db=build_scores(db)
     save('data/查询数据.json',db)
     template=(ROOT/'source/查询页模板.html').read_text(encoding='utf-8')
     html=template.replace('{{DATA}}',json.dumps(db,ensure_ascii=False,separators=(',',':')).replace('</','<\\/'))
+    html=html.replace('{{DIRECTORY_JS}}',(ROOT/'source/目录与评分.js').read_text(encoding='utf-8'))
     (ROOT/'广东数学竞赛成绩查询.html').write_text(html,encoding='utf-8')
     with (ROOT/'data/广东数学竞赛记录.csv').open('w',encoding='utf-8-sig',newline='') as f:
         w=csv.writer(f);w.writerow(['赛事','年份','姓名','原名单同名标记','姓名拼音','学校','年级','奖项','省队资格','状态','编号','分数','官方名次','名单顺位','顺位口径'])

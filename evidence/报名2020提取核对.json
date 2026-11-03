@@ -1,0 +1,68 @@
+{
+  "year": 2020,
+  "rows": 1872,
+  "pages": [
+    {
+      "page": 1,
+      "rows": 128
+    },
+    {
+      "page": 2,
+      "rows": 134
+    },
+    {
+      "page": 3,
+      "rows": 134
+    },
+    {
+      "page": 4,
+      "rows": 134
+    },
+    {
+      "page": 5,
+      "rows": 122
+    },
+    {
+      "page": 6,
+      "rows": 134
+    },
+    {
+      "page": 7,
+      "rows": 134
+    },
+    {
+      "page": 8,
+      "rows": 134
+    },
+    {
+      "page": 9,
+      "rows": 134
+    },
+    {
+      "page": 10,
+      "rows": 134
+    },
+    {
+      "page": 11,
+      "rows": 134
+    },
+    {
+      "page": 12,
+      "rows": 134
+    },
+    {
+      "page": 13,
+      "rows": 134
+    },
+    {
+      "page": 14,
+      "rows": 134
+    },
+    {
+      "page": 15,
+      "rows": 14
+    }
+  ],
+  "missing_pages": [],
+  "consistent": 1554
+}

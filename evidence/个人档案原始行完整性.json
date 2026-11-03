@@ -1,8 +1,11 @@
 {
   "status": "passed",
   "original_records_unchanged": true,
-  "all_sources_unchanged": true,
-  "record_count": 8013,
-  "profiles": 5957,
-  "html_sha256": "b92e928fa030ac6e25ac9e437c385d298a9653138ec7984425e82ca5ebe909d3"
+  "all_original_sources_unchanged": true,
+  "original_record_count": 8013,
+  "record_count": 18853,
+  "profiles": 11426,
+  "added_records": 10840,
+  "added_sources": 6,
+  "html_sha256": "25e0ea077d30c9c28830c9a12cee7fbbc94918038867bb7e6824c8c2c08bc70d"
 }

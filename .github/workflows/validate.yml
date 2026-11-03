@@ -12,4 +12,6 @@ jobs:
           python-version: '3.13'
       - run: python source/render_site.py
       - run: python source/test_people.py
+      - run: python source/test_scores.py
+      - run: python source/test_registration.py
       - run: python source/validate_release.py

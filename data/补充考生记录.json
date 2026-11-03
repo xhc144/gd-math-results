@@ -1,0 +1,63 @@
+{
+  "sources": [
+    {
+      "id": "2024-考场安排-3532-深圳",
+      "year": 2024,
+      "kind": "考场安排",
+      "status": "考生名单",
+      "title": "2024年全国中学生数学奥林匹克竞赛考点安排：深圳中学考点",
+      "article": "https://math.sysu.edu.cn/article/3532",
+      "url": "https://math.sysu.edu.cn/sites/default/files/2024-08/深圳中学考点.pdf",
+      "local": "原始资料/2024/2024-考点安排-深圳中学-3532.pdf",
+      "sha256": "e6132dbdaff2a1f3b0390c3ffc542d618ced52d9645900637d93899e41882edb",
+      "bytes": 9450500,
+      "pages": 14,
+      "retrieved": "2026-11-02",
+      "publisher": "广东省数学会（中山大学数学学院网站）",
+      "originNote": "2024考场安排；本次专项核对杨奕辰一行，未全表入库"
+    }
+  ],
+  "records": [
+    {
+      "id": "supp-2024-yangyichen-shenzhen",
+      "year": 2024,
+      "competition": "高联",
+      "name": "杨奕辰",
+      "marker": "",
+      "school": "深圳中学",
+      "grade": "高一",
+      "award": "报名未见获奖",
+      "awards": [],
+      "team": false,
+      "name_uncertain": false,
+      "rank": null,
+      "list_order": null,
+      "rank_label": "",
+      "rank_note": "考生名单不提供成绩名次，也不能证明实际到场",
+      "refs": [
+        {
+          "source": "2024-考场安排-3532-深圳",
+          "page": 11
+        }
+      ],
+      "code": "",
+      "score": null,
+      "status": "考生名单",
+      "confidence": 0.9998,
+      "pinyin": "yang yi chen",
+      "aliases": [
+        "yangyichen",
+        "yyc"
+      ],
+      "review": "已实际查看考场原PDF第11页，核对姓名、深圳中学和原表高一；在已收录的本年高联省一二三名单未见同名同校匹配。未核验实际到场，不能区分未获奖和缺考。"
+    }
+  ],
+  "coverage": [
+    {
+      "year": 2024,
+      "label": "已专项核对1名考生；完整考生表未入库",
+      "scope": "杨奕辰",
+      "attendance_verified": false
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "summaries": [
+    {
+      "year": 2020,
+      "rows": 1872,
+      "counts": {
+        "报名未见获奖": 836,
+        "报名匹配待核": 493,
+        "matched": 543
+      },
+      "grade_differences": 30
+    },
+    {
+      "year": 2025,
+      "rows": 2889,
+      "counts": {
+        "报名未见获奖": 1316,
+        "报名匹配待核": 702,
+        "matched": 871
+      },
+      "grade_differences": 9
+    }
+  ],
+  "method": "同年姓名和规范校名；不按年级排除；存在近似错字或多重匹配则保留待核，不直接标缺考"
+}

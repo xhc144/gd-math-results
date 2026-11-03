@@ -2,6 +2,7 @@
 from pathlib import Path
 import json,csv
 from build_people import build_people
+from build_scores import build_scores
 ROOT=Path(__file__).resolve().parents[1]
 
 def write_csv(db):
@@ -13,9 +14,11 @@ def write_csv(db):
 def main():
     db=json.loads((ROOT/'data/查询数据.json').read_text(encoding='utf-8'))
     db=build_people(db)
+    db=build_scores(db)
     (ROOT/'data/查询数据.json').write_text(json.dumps(db,ensure_ascii=False,indent=2),encoding='utf-8')
     template=(ROOT/'source/查询页模板.html').read_text(encoding='utf-8')
     html=template.replace('{{DATA}}',json.dumps(db,ensure_ascii=False,separators=(',',':')).replace('</','<\\/'))
+    html=html.replace('{{DIRECTORY_JS}}',(ROOT/'source/目录与评分.js').read_text(encoding='utf-8'))
     (ROOT/'广东数学竞赛成绩查询.html').write_text(html,encoding='utf-8')
     write_csv(db)
     print('Rendered',len(db['records']),'records')

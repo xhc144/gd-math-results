@@ -24,7 +24,7 @@
       "passed": true
     },
     {
-      "name": "薛浩琛两年合为一行",
+      "name": "薛浩琛历年高联与初赛合为一行",
       "passed": true
     },
     {
@@ -116,7 +116,23 @@
       "passed": true
     },
     {
-      "name": "报名比对分类仅2026且未区分缺考",
+      "name": "报名比对未区分缺考",
+      "passed": true
+    },
+    {
+      "name": "2020报名差集实际可筛选",
+      "passed": true
+    },
+    {
+      "name": "2025报名差集实际可筛选",
+      "passed": true
+    },
+    {
+      "name": "2026报名差集实际可筛选",
+      "passed": true
+    },
+    {
+      "name": "有疑问的报名匹配另列待核",
       "passed": true
     },
     {
@@ -125,6 +141,54 @@
     },
     {
       "name": "实际点击打开对应本地PDF页",
+      "passed": true
+    },
+    {
+      "name": "默认首页最高荣誉为IMO且不是按年份",
+      "passed": true
+    },
+    {
+      "name": "官浩楠初赛与高联报名归同一人",
+      "passed": true
+    },
+    {
+      "name": "官浩楠2025报名原表高三且不认定缺考",
+      "passed": true
+    },
+    {
+      "name": "杨奕辰高一考场及2024初赛已补齐",
+      "passed": true
+    },
+    {
+      "name": "个人页学校链接进入学校选手列表",
+      "passed": true
+    },
+    {
+      "name": "独立学校表可搜索",
+      "passed": true
+    },
+    {
+      "name": "学校目录链接刷新仍保留页面",
+      "passed": true
+    },
+    {
+      "name": "学校目录实际点击筛出选手",
+      "passed": true
+    },
+    {
+      "name": "独立比赛表可按年份比赛搜索",
+      "passed": true
+    },
+    {
+      "name": "比赛目录点击进入当场成绩",
+      "passed": true
+    },
+    {
+      "name": "个人页比赛链接实际打开对应赛事",
+      "passed": true
+    },
+    {
+      "name": "评分页公开公式与自定义边界",
       "passed": true
     },
     {
@@ -148,20 +212,30 @@
       "passed": true
     },
     {
+      "name": "窄屏学校目录无页面溢出",
+      "passed": true
+    },
+    {
       "name": "无JavaScript运行错误",
       "passed": true
     }
   ],
-  "check_count": 37,
+  "check_count": 54,
   "errors": [],
-  "html_sha256": "b92e928fa030ac6e25ac9e437c385d298a9653138ec7984425e82ca5ebe909d3",
+  "html_sha256": "25e0ea077d30c9c28830c9a12cee7fbbc94918038867bb7e6824c8c2c08bc70d",
   "screenshots": [
     "桌面-个人合并查询.png",
+    "桌面-学校目录.png",
+    "桌面-官浩楠个人页.png",
     "桌面-年度收录.png",
+    "桌面-杨奕辰个人页.png",
+    "桌面-比赛目录.png",
     "桌面-薛浩琛个人页.png",
+    "桌面-评分规则.png",
     "桌面-选手详情.png",
     "桌面-首页.png",
     "窄屏-个人合并查询.png",
+    "窄屏-学校目录.png",
     "窄屏-选手详情.png",
     "窄屏-首页.png"
   ]

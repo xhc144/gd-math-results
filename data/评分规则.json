@@ -1,0 +1,108 @@
+{
+  "version": "honor-season-v1",
+  "decay": 0.4,
+  "name": "MathDb 荣誉参考分",
+  "weights": [
+    {
+      "key": "IMO:金牌",
+      "label": "IMO 金牌",
+      "tier": 13,
+      "points": 10000
+    },
+    {
+      "key": "IMO:银牌",
+      "label": "IMO 银牌",
+      "tier": 12,
+      "points": 8500
+    },
+    {
+      "key": "IMO:铜牌",
+      "label": "IMO 铜牌",
+      "tier": 11,
+      "points": 7000
+    },
+    {
+      "key": "CMO:金牌",
+      "label": "CMO 金牌",
+      "tier": 10,
+      "points": 5500
+    },
+    {
+      "key": "CMO:银牌",
+      "label": "CMO 银牌",
+      "tier": 9,
+      "points": 4000
+    },
+    {
+      "key": "CMO:铜牌",
+      "label": "CMO 铜牌",
+      "tier": 8,
+      "points": 3000
+    },
+    {
+      "key": "高联:省队",
+      "label": "高联省队",
+      "tier": 7,
+      "points": 2400
+    },
+    {
+      "key": "高联:一等奖",
+      "label": "高联省一等奖",
+      "tier": 6,
+      "points": 1400
+    },
+    {
+      "key": "高联:二等奖",
+      "label": "高联省二等奖",
+      "tier": 5,
+      "points": 600
+    },
+    {
+      "key": "高联:三等奖",
+      "label": "高联省三等奖",
+      "tier": 4,
+      "points": 250
+    },
+    {
+      "key": "广东初赛:一等奖",
+      "label": "广东初赛一等奖",
+      "tier": 3,
+      "points": 100
+    },
+    {
+      "key": "广东初赛:二等奖",
+      "label": "广东初赛二等奖",
+      "tier": 2,
+      "points": 50
+    },
+    {
+      "key": "广东初赛:三等奖",
+      "label": "广东初赛三等奖",
+      "tier": 1,
+      "points": 20
+    }
+  ],
+  "references": [
+    {
+      "title": "全国中学生五项学科竞赛工作条例（中国科协，CCF官网转载）",
+      "url": "https://www.noi.cn/gynoi/tlgd/2008-12-26/710428.shtml",
+      "note": "阶段层级的制度依据；具体数值由本项目自定义，不是官方评分。"
+    },
+    {
+      "title": "IMO 官方竞赛规则：金银铜奖",
+      "url": "https://www.imo-official.org/regulations/"
+    },
+    {
+      "title": "广东数学会：初赛获奖者获得全国预赛参赛资格",
+      "url": "https://math.sysu.edu.cn/article/3521"
+    },
+    {
+      "title": "广东数学会：省队决赛名单",
+      "url": "https://math.sysu.edu.cn/article/3977"
+    }
+  ],
+  "formula": "同一选拔赛季只计最高一次；IMO归前一年选拔赛季。各赛季基础分由高到低排列，S = b1 + 0.4*b2 + 0.16*b3 + ...。",
+  "ordering": "先按最高荣誉层级，再按参考分；仍同分时比较已公布的IMO官方名次，最后按姓名稳定排序。不按获奖年份新旧排序。",
+  "school_formula": "每份选手档案仅计一次；按本校前10名选手的参考分求和，同分再比较最高荣誉。仅反映本库已收录记录。",
+  "boundary": "阶段与奖项顺序有公开制度依据；基础分间距和0.4递减系数是本项目的设计取舍，不是客观含金量测量。缺考、报名名单与未知获奖不计分；名单顺位不转换为成绩百分位。"
+}
